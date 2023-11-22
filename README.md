@@ -4,13 +4,13 @@
 </h3>
 
 <div align="center">
-  <a href="https://blog.sunguoqi.com/">
+  <a href="https://www.zzzwb.com/">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=689A28FF&width=450&lines=心向星空，梦往远方。;星光如诗洒在夜幕，梦境在星辰中徜徉。&center=true&size=27" alt="Wenbin" />
   </a>
 </div>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <a href="https://github.com/bin862324915">
     <img src="https://github-profile-trophy.vercel.app/?username=bin862324915&theme=apprentice">
   </a>
 </p>
@@ -26,7 +26,7 @@
 <p align="center">
   <a href="https://www.last.fm/user/bin862324915"><img width="" alt="My Last.FM" title="My Last.FM" src="https://lastfm-recently-played.vercel.app/api?user=bin862324915"/></a>
     &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://github.com/piyushsuthar/github-readme-quotes">
+  <a href="https://github.com/bin862324915">
     <img src="https://quotes-github-readme.vercel.app/api?theme=nord&border=true">
   </a>
 </p>
