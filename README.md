@@ -23,6 +23,13 @@
   <img alt="GitHub Snake Dark" src="https://githubusercontent.zohan.tech/snk.svg?user=bin862324915&repo=bin862324915&branch=output&path=github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
 </a>
 
+<p align="center">
+  <a href="https://www.last.fm/user/bin862324915"><img width="" alt="My Last.FM" title="My Last.FM" src="https://lastfm-recently-played.vercel.app/api?user=bin862324915"/></a>
+    &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://github.com/piyushsuthar/github-readme-quotes">
+    <img src="https://quotes-github-readme.vercel.app/api?theme=nord&border=true">
+  </a>
+</p>
 
 ## 📘 我的项目
 
