@@ -83,7 +83,7 @@
     <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-010101.svg?logo=notion&logoColor=white"></a>
     <a href="#"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
     <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white"></a>
-    <a href="#"><img alt="Cloudflare" src="https://img.shields.io/badge/cloudflare-FFA500.svg?logo=cloudflare&logoColor=white"></a>
+    <a href="#"><img alt="Cloudflare" src="https://img.shields.io/badge/Cloudflare-FFA500.svg?logo=cloudflare&logoColor=white"></a>
 </p>
 
 ### 💻 软件和工具
