@@ -38,7 +38,7 @@
 <p align="left">
   <a href="https://github.com/bin862324915/piaoliuping"><img width="278" src="https://github-readme-stats.zohan.tech/api/pin/?username=bin862324915&repo=piaoliuping&theme=prussian&hide_border=true"></a>
   <a href="https://github.com/bin862324915/biaobaiqiang"><img width="278" src="https://github-readme-stats.zohan.tech/api/pin/?username=bin862324915&repo=biaobaiqiang&theme=prussian&hide_border=true"></a>
-  <a href="https://github.com/bin862324915/music"><img width="278" src="https://github-readme-stats.zohan.tech/api/pin/?username=bin862324915&repo=music&theme=prussian&hide_border=true"></a>
+  <a href="https://github.com/bin862324915/Telegraph-Image"><img width="278" src="https://github-readme-stats.zohan.tech/api/pin/?username=bin862324915&repo=Telegraph-Image&theme=prussian&hide_border=true"></a>
 </p>
 
 <p align="left">
