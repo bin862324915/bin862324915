@@ -5,7 +5,7 @@
 
 <div align="center">
   <a href="https://www.zzzwb.com/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=689A28FF&width=450&lines=心向星空，梦往远方。;星光如诗洒在夜幕，梦境在星辰中徜徉。&center=true&size=27" alt="Wenbin" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=689A28FF&width=450&lines=&lines=%E5%BF%83%E5%90%91%E6%98%9F%E7%A9%BA%EF%BC%8C%E6%A2%A6%E5%BE%80%E8%BF%9C%E6%96%B9%E3%80%82;%E6%98%9F%E5%85%89%E5%A6%82%E8%AF%97%E6%B4%92%E5%9C%A8%E5%A4%9C%E5%B9%95%EF%BC%8C%E6%A2%A6%E5%A2%83%E5%9C%A8%E6%98%9F%E8%BE%B0%E4%B8%AD%E5%BE%9C%E5%BE%89%E3%80%82&center=true&size=27" alt="Wenbin" />
   </a>
 </div>
 
